@@ -1,9 +1,0 @@
-Field,Value
-Create options,Both
-Subscription,Select preferred subscription from the dropdown
-Resource Group,Select existing resource group or create a new one
-Name,Name of the service which will also be our endpoint domain name
-Training Location,East US 2
-Training Pricing,Tier	Free F0
-Prediction Location,Choose your preferred location where you'll be providing the service
-Prediction Pricing,Tier	Free F0
