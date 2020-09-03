@@ -1,2 +1,2 @@
 # Azure-Functions-and-Cognitive-Services
-Data for Medical Image Classification using Azure Functions and Cognitive Services Medium Blog 
+Model files for Medical Image Classification using Azure Functions and Cognitive Services Medium Blog 
